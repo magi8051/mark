@@ -7,3 +7,10 @@ after creating a new one, used add. and commit command test
 my name is Jami
 
 */
+
+/* story 3
+I'm 42 years old.
+ 
+ */
+
+
