@@ -13,12 +13,16 @@ I'm 42 years old.
 
  */
 
-/* jks story 1
+/* story 4
 this is debug branch stroy1
 
  */
 
-/* jks story 2
+/* story 5
 this is debug branch stroy2
 I used to every morning ride bike.
+ */
+
+/* story 6
+merged debug jks story
  */
